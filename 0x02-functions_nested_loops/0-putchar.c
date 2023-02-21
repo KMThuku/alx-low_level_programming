@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print _ptchar
+ * main - print _putchar
  * is written by max
  * Return: 0
  */
